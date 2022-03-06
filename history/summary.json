@@ -5,14 +5,14 @@
     "icon": "https://favicons.githubusercontent.com/chot.sale",
     "slug": "chot-sale",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.44%",
-    "time": 1229,
-    "timeDay": 904,
-    "timeWeek": 1197,
+    "time": 1228,
+    "timeDay": 1159,
+    "timeWeek": 1176,
     "timeMonth": 1196,
     "timeYear": 1232,
     "dailyMinutesDown": {
@@ -23,8 +23,7 @@
       "2021-06-17": 37,
       "2021-06-07": 90,
       "2021-03-08": 509,
-      "2021-03-07": 1440,
-      "2021-03-06": 701
+      "2021-03-07": 1440
     }
   },
   {
@@ -38,10 +37,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.42%",
-    "time": 880,
-    "timeDay": 535,
-    "timeWeek": 654,
-    "timeMonth": 1522,
+    "time": 879,
+    "timeDay": 735,
+    "timeWeek": 648,
+    "timeMonth": 1525,
     "timeYear": 883,
     "dailyMinutesDown": {
       "2022-02-09": 30,
@@ -55,8 +54,7 @@
       "2021-05-17": 17,
       "2021-04-23": 38,
       "2021-03-08": 509,
-      "2021-03-07": 1440,
-      "2021-03-06": 701
+      "2021-03-07": 1440
     }
   },
   {
@@ -71,15 +69,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.48%",
     "time": 393,
-    "timeDay": 347,
-    "timeWeek": 396,
-    "timeMonth": 387,
+    "timeDay": 437,
+    "timeWeek": 390,
+    "timeMonth": 390,
     "timeYear": 394,
     "dailyMinutesDown": {
       "2021-06-07": 89,
       "2021-03-08": 509,
-      "2021-03-07": 1440,
-      "2021-03-06": 671
+      "2021-03-07": 1440
     }
   }
 ]
