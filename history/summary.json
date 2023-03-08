@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/chot.sale.ico",
     "slug": "chot-sale",
     "status": "up",
-    "uptime": "75.57%",
+    "uptime": "75.58%",
     "uptimeDay": "98.38%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "51.35%",
-    "time": 1270,
-    "timeDay": 1560,
-    "timeWeek": 1221,
-    "timeMonth": 1362,
-    "timeYear": 1335,
+    "time": 1273,
+    "timeDay": 1738,
+    "timeWeek": 1300,
+    "timeMonth": 1371,
+    "timeYear": 1342,
     "dailyMinutesDown": {
       "2023-03-07": 23,
       "2023-02-04": 17,
@@ -199,8 +199,7 @@
       "2022-03-12": 1440,
       "2022-03-11": 1440,
       "2022-03-10": 1440,
-      "2022-03-09": 1440,
-      "2022-03-08": 929
+      "2022-03-09": 1440
     }
   },
   {
@@ -209,16 +208,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.chot.sale.ico",
     "slug": "app-chot-sale",
     "status": "up",
-    "uptime": "75.56%",
+    "uptime": "75.58%",
     "uptimeDay": "96.97%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "51.35%",
     "time": 933,
-    "timeDay": 901,
-    "timeWeek": 1197,
-    "timeMonth": 900,
-    "timeYear": 802,
+    "timeDay": 758,
+    "timeWeek": 1131,
+    "timeMonth": 893,
+    "timeYear": 801,
     "dailyMinutesDown": {
       "2023-03-07": 44,
       "2022-12-28": 30,
@@ -399,8 +398,7 @@
       "2022-03-12": 1440,
       "2022-03-11": 1440,
       "2022-03-10": 1440,
-      "2022-03-09": 1440,
-      "2022-03-08": 929
+      "2022-03-09": 1440
     }
   },
   {
@@ -409,18 +407,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tcp-ping-to-chot-sale-server",
     "status": "down",
-    "uptime": "50.19%",
+    "uptime": "50.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "0.18%",
-    "time": 379,
+    "uptimeYear": "0.08%",
+    "time": 378,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 347,
+    "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-07": 997,
+      "2023-03-08": 104,
+      "2023-03-07": 1440,
       "2023-03-06": 1440,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
@@ -783,8 +782,7 @@
       "2022-03-12": 1440,
       "2022-03-11": 1440,
       "2022-03-10": 1440,
-      "2022-03-09": 1440,
-      "2022-03-08": 928
+      "2022-03-09": 1440
     }
   }
 ]
