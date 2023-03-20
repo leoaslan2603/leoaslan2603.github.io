@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/chot.sale.ico",
     "slug": "chot-sale",
     "status": "up",
-    "uptime": "75.94%",
+    "uptime": "75.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "54.27%",
+    "uptimeYear": "54.55%",
     "time": 1296,
-    "timeDay": 1581,
-    "timeWeek": 1505,
-    "timeMonth": 1506,
+    "timeDay": 1185,
+    "timeWeek": 1359,
+    "timeMonth": 1490,
     "timeYear": 1357,
     "dailyMinutesDown": {
       "2023-03-11": 17,
@@ -189,8 +189,7 @@
       "2022-03-24": 1440,
       "2022-03-23": 1440,
       "2022-03-22": 1440,
-      "2022-03-21": 1440,
-      "2022-03-20": 1440
+      "2022-03-21": 1440
     }
   },
   {
@@ -199,16 +198,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.chot.sale.ico",
     "slug": "app-chot-sale",
     "status": "up",
-    "uptime": "75.93%",
+    "uptime": "75.96%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "54.27%",
-    "time": 949,
-    "timeDay": 811,
-    "timeWeek": 728,
-    "timeMonth": 1033,
-    "timeYear": 821,
+    "uptimeYear": "54.54%",
+    "time": 948,
+    "timeDay": 320,
+    "timeWeek": 690,
+    "timeMonth": 1015,
+    "timeYear": 819,
     "dailyMinutesDown": {
       "2023-03-12": 17,
       "2023-03-11": 17,
@@ -381,8 +380,7 @@
       "2022-03-24": 1440,
       "2022-03-23": 1440,
       "2022-03-22": 1440,
-      "2022-03-21": 1440,
-      "2022-03-20": 1440
+      "2022-03-21": 1440
     }
   },
   {
@@ -391,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tcp-ping-to-chot-sale-server",
     "status": "down",
-    "uptime": "49.42%",
+    "uptime": "49.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 377,
+    "time": 378,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-19": 102,
+      "2023-03-20": 96,
+      "2023-03-19": 1440,
       "2023-03-18": 1440,
       "2023-03-17": 1440,
       "2023-03-16": 1440,
@@ -765,8 +764,7 @@
       "2022-03-24": 1440,
       "2022-03-23": 1440,
       "2022-03-22": 1440,
-      "2022-03-21": 1440,
-      "2022-03-20": 1440
+      "2022-03-21": 1440
     }
   }
 ]
