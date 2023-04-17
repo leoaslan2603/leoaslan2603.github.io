@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/chot.sale.ico",
     "slug": "chot-sale",
     "status": "down",
-    "uptime": "76.83%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptime": "76.79%",
+    "uptimeDay": "63.04%",
+    "uptimeWeek": "94.72%",
+    "uptimeMonth": "98.79%",
     "uptimeYear": "62.11%",
     "time": 1298,
-    "timeDay": 708,
-    "timeWeek": 1009,
-    "timeMonth": 1208,
+    "timeDay": 0,
+    "timeWeek": 1006,
+    "timeMonth": 1195,
     "timeYear": 1336,
     "dailyMinutesDown": {
-      "2023-04-16": 1,
+      "2023-04-17": 81,
+      "2023-04-16": 451,
       "2023-03-11": 17,
       "2023-03-09": 30,
       "2023-03-07": 23,
@@ -162,8 +163,7 @@
       "2022-04-21": 1440,
       "2022-04-20": 1440,
       "2022-04-19": 1440,
-      "2022-04-18": 1440,
-      "2022-04-17": 1440
+      "2022-04-18": 1440
     }
   },
   {
@@ -172,18 +172,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.chot.sale.ico",
     "slug": "app-chot-sale",
     "status": "down",
-    "uptime": "76.81%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptime": "76.78%",
+    "uptimeDay": "63.04%",
+    "uptimeWeek": "94.72%",
+    "uptimeMonth": "98.79%",
     "uptimeYear": "62.11%",
     "time": 950,
-    "timeDay": 784,
+    "timeDay": 0,
     "timeWeek": 707,
-    "timeMonth": 747,
+    "timeMonth": 731,
     "timeYear": 811,
     "dailyMinutesDown": {
-      "2023-04-16": 1,
+      "2023-04-17": 81,
+      "2023-04-16": 451,
       "2023-03-12": 17,
       "2023-03-11": 17,
       "2023-03-09": 29,
@@ -327,8 +328,7 @@
       "2022-04-21": 1440,
       "2022-04-20": 1440,
       "2022-04-19": 1440,
-      "2022-04-18": 1440,
-      "2022-04-17": 1440
+      "2022-04-18": 1440
     }
   },
   {
@@ -337,18 +337,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tcp-ping-to-chot-sale-server",
     "status": "down",
-    "uptime": "47.60%",
+    "uptime": "47.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 380,
+    "time": 379,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-16": 989,
+      "2023-04-17": 81,
+      "2023-04-16": 1440,
       "2023-04-15": 1440,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
@@ -711,8 +712,7 @@
       "2022-04-21": 1440,
       "2022-04-20": 1440,
       "2022-04-19": 1440,
-      "2022-04-18": 1440,
-      "2022-04-17": 1440
+      "2022-04-18": 1440
     }
   }
 ]
