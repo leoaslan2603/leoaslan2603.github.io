@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/chot.sale.ico",
     "slug": "chot-sale",
     "status": "up",
-    "uptime": "76.24%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "85.81%",
-    "uptimeMonth": "74.17%",
-    "uptimeYear": "63.76%",
+    "uptime": "76.25%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "93.18%",
+    "uptimeMonth": "74.20%",
+    "uptimeYear": "63.90%",
     "time": 1309,
-    "timeDay": 1186,
-    "timeWeek": 1398,
-    "timeMonth": 1165,
-    "timeYear": 1338,
+    "timeDay": 1125,
+    "timeWeek": 1369,
+    "timeMonth": 1158,
+    "timeYear": 1337,
     "dailyMinutesDown": {
-      "2023-04-30": 14,
       "2023-04-24": 771,
       "2023-04-23": 1440,
       "2023-04-22": 1440,
@@ -157,8 +156,7 @@
       "2022-05-05": 1440,
       "2022-05-04": 1440,
       "2022-05-03": 1440,
-      "2022-05-02": 1440,
-      "2022-05-01": 1440
+      "2022-05-02": 1440
     }
   },
   {
@@ -167,18 +165,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.chot.sale.ico",
     "slug": "app-chot-sale",
     "status": "up",
-    "uptime": "76.23%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "85.81%",
-    "uptimeMonth": "74.17%",
-    "uptimeYear": "63.75%",
-    "time": 905,
-    "timeDay": 884,
-    "timeWeek": 918,
-    "timeMonth": 793,
+    "uptime": "76.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "93.18%",
+    "uptimeMonth": "74.20%",
+    "uptimeYear": "63.90%",
+    "time": 904,
+    "timeDay": 869,
+    "timeWeek": 891,
+    "timeMonth": 770,
     "timeYear": 814,
     "dailyMinutesDown": {
-      "2023-04-30": 14,
       "2023-04-24": 771,
       "2023-04-23": 1440,
       "2023-04-22": 1440,
@@ -317,8 +314,7 @@
       "2022-05-05": 1440,
       "2022-05-04": 1440,
       "2022-05-03": 1440,
-      "2022-05-02": 1440,
-      "2022-05-01": 1440
+      "2022-05-02": 1440
     }
   },
   {
@@ -327,18 +323,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tcp-ping-to-chot-sale-server",
     "status": "down",
-    "uptime": "46.76%",
+    "uptime": "46.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 383,
+    "time": 382,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-30": 795,
+      "2023-05-01": 84,
+      "2023-04-30": 1440,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
@@ -701,8 +698,7 @@
       "2022-05-05": 1440,
       "2022-05-04": 1440,
       "2022-05-03": 1440,
-      "2022-05-02": 1440,
-      "2022-05-01": 1440
+      "2022-05-02": 1440
     }
   }
 ]
