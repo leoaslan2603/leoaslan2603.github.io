@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/chot.sale.ico",
     "slug": "chot-sale",
     "status": "up",
-    "uptime": "76.84%",
+    "uptime": "76.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.59%",
-    "uptimeYear": "69.38%",
+    "uptimeMonth": "91.86%",
+    "uptimeYear": "69.66%",
     "time": 1323,
-    "timeDay": 1553,
-    "timeWeek": 1376,
-    "timeMonth": 1346,
-    "timeYear": 1337,
+    "timeDay": 1138,
+    "timeWeek": 1308,
+    "timeMonth": 1340,
+    "timeYear": 1336,
     "dailyMinutesDown": {
       "2023-04-24": 771,
       "2023-04-23": 1440,
@@ -135,8 +135,7 @@
       "2022-05-26": 1440,
       "2022-05-25": 1440,
       "2022-05-24": 1440,
-      "2022-05-23": 1440,
-      "2022-05-22": 1440
+      "2022-05-23": 1440
     }
   },
   {
@@ -145,14 +144,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.chot.sale.ico",
     "slug": "app-chot-sale",
     "status": "up",
-    "uptime": "76.83%",
+    "uptime": "76.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.59%",
-    "uptimeYear": "69.38%",
-    "time": 919,
-    "timeDay": 927,
-    "timeWeek": 1154,
+    "uptimeMonth": "91.86%",
+    "uptimeYear": "69.65%",
+    "time": 920,
+    "timeDay": 875,
+    "timeWeek": 1189,
     "timeMonth": 878,
     "timeYear": 819,
     "dailyMinutesDown": {
@@ -273,8 +272,7 @@
       "2022-05-26": 1440,
       "2022-05-25": 1440,
       "2022-05-24": 1440,
-      "2022-05-23": 1440,
-      "2022-05-22": 1440
+      "2022-05-23": 1440
     }
   },
   {
@@ -283,18 +281,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tcp-ping-to-chot-sale-server",
     "status": "down",
-    "uptime": "45.58%",
+    "uptime": "45.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 380,
+    "time": 381,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-21": 95,
+      "2023-05-22": 86,
+      "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
@@ -657,8 +656,7 @@
       "2022-05-26": 1440,
       "2022-05-25": 1440,
       "2022-05-24": 1440,
-      "2022-05-23": 1440,
-      "2022-05-22": 1440
+      "2022-05-23": 1440
     }
   }
 ]
