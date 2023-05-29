@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/chot.sale.ico",
     "slug": "chot-sale",
     "status": "up",
-    "uptime": "77.04%",
+    "uptime": "77.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "71.30%",
+    "uptimeYear": "71.57%",
     "time": 1291,
-    "timeDay": 1974,
-    "timeWeek": 1456,
-    "timeMonth": 1370,
+    "timeDay": 1362,
+    "timeWeek": 1474,
+    "timeMonth": 1365,
     "timeYear": 1342,
     "dailyMinutesDown": {
       "2023-04-24": 771,
@@ -128,8 +128,7 @@
       "2022-06-02": 1440,
       "2022-06-01": 1440,
       "2022-05-31": 1440,
-      "2022-05-30": 1440,
-      "2022-05-29": 1440
+      "2022-05-30": 1440
     }
   },
   {
@@ -138,15 +137,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.chot.sale.ico",
     "slug": "app-chot-sale",
     "status": "up",
-    "uptime": "77.03%",
+    "uptime": "77.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "71.30%",
-    "time": 917,
-    "timeDay": 261,
-    "timeWeek": 732,
-    "timeMonth": 828,
+    "uptimeYear": "71.57%",
+    "time": 916,
+    "timeDay": 705,
+    "timeWeek": 713,
+    "timeMonth": 827,
     "timeYear": 816,
     "dailyMinutesDown": {
       "2023-04-24": 771,
@@ -259,8 +258,7 @@
       "2022-06-02": 1440,
       "2022-06-01": 1440,
       "2022-05-31": 1440,
-      "2022-05-30": 1440,
-      "2022-05-29": 1440
+      "2022-05-30": 1440
     }
   },
   {
@@ -269,18 +267,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tcp-ping-to-chot-sale-server",
     "status": "down",
-    "uptime": "45.19%",
+    "uptime": "45.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 382,
+    "time": 380,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-28": 99,
+      "2023-05-29": 85,
+      "2023-05-28": 1440,
       "2023-05-27": 1440,
       "2023-05-26": 1440,
       "2023-05-25": 1440,
@@ -643,8 +642,7 @@
       "2022-06-02": 1440,
       "2022-06-01": 1440,
       "2022-05-31": 1440,
-      "2022-05-30": 1440,
-      "2022-05-29": 1440
+      "2022-05-30": 1440
     }
   }
 ]
