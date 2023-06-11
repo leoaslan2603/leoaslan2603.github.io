@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/chot.sale.ico",
     "slug": "chot-sale",
     "status": "up",
-    "uptime": "77.41%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "75.00%",
+    "uptime": "77.42%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "75.13%",
     "time": 1373,
-    "timeDay": 2318,
-    "timeWeek": 2244,
-    "timeMonth": 1791,
-    "timeYear": 1414,
+    "timeDay": 2567,
+    "timeWeek": 2253,
+    "timeMonth": 1778,
+    "timeYear": 1413,
     "dailyMinutesDown": {
-      "2023-06-10": 5,
       "2023-06-07": 18,
       "2023-06-05": 18,
       "2023-04-24": 771,
@@ -118,8 +117,7 @@
       "2022-06-15": 1440,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
-      "2022-06-12": 1440,
-      "2022-06-11": 1440
+      "2022-06-12": 1440
     }
   },
   {
@@ -128,16 +126,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.chot.sale.ico",
     "slug": "app-chot-sale",
     "status": "up",
-    "uptime": "77.40%",
+    "uptime": "77.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "75.00%",
-    "time": 996,
-    "timeDay": 1387,
-    "timeWeek": 1717,
-    "timeMonth": 1279,
-    "timeYear": 892,
+    "uptimeYear": "75.13%",
+    "time": 998,
+    "timeDay": 1806,
+    "timeWeek": 1756,
+    "timeMonth": 1303,
+    "timeYear": 894,
     "dailyMinutesDown": {
       "2023-06-05": 17,
       "2023-04-24": 771,
@@ -237,8 +235,7 @@
       "2022-06-15": 1440,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
-      "2022-06-12": 1440,
-      "2022-06-11": 1440
+      "2022-06-12": 1440
     }
   },
   {
@@ -247,18 +244,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tcp-ping-to-chot-sale-server",
     "status": "down",
-    "uptime": "44.45%",
+    "uptime": "44.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 378,
+    "time": 379,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-10": 882,
+      "2023-06-11": 112,
+      "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
@@ -621,8 +619,7 @@
       "2022-06-15": 1440,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
-      "2022-06-12": 1440,
-      "2022-06-11": 1440
+      "2022-06-12": 1440
     }
   }
 ]
