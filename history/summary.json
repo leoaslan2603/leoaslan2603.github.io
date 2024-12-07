@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/chot.sale.ico",
     "slug": "chot-sale",
     "status": "up",
-    "uptime": "52.64%",
+    "uptime": "52.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.43%",
-    "uptimeYear": "17.58%",
-    "time": 1293,
-    "timeDay": 1295,
-    "timeWeek": 1205,
-    "timeMonth": 1192,
-    "timeYear": 1293,
+    "uptimeYear": "17.85%",
+    "time": 1292,
+    "timeDay": 1203,
+    "timeWeek": 1202,
+    "timeMonth": 1193,
+    "timeYear": 1292,
     "dailyMinutesDown": {
       "2024-12-03": 20,
       "2024-11-21": 230,
@@ -315,8 +315,7 @@
       "2023-12-12": 1440,
       "2023-12-11": 1440,
       "2023-12-10": 1440,
-      "2023-12-09": 1440,
-      "2023-12-08": 1440
+      "2023-12-09": 1440
     }
   },
   {
@@ -325,7 +324,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.chot.sale.ico",
     "slug": "app-chot-sale",
     "status": "down",
-    "uptime": "47.90%",
+    "uptime": "47.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -336,7 +335,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-06": 107,
+      "2024-12-07": 106,
+      "2024-12-06": 1440,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
@@ -699,8 +699,7 @@
       "2023-12-12": 1440,
       "2023-12-11": 1440,
       "2023-12-10": 1440,
-      "2023-12-09": 1440,
-      "2023-12-08": 1440
+      "2023-12-09": 1440
     }
   },
   {
@@ -709,7 +708,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tcp-ping-to-chot-sale-server",
     "status": "down",
-    "uptime": "26.84%",
+    "uptime": "26.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -720,7 +719,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-06": 107,
+      "2024-12-07": 106,
+      "2024-12-06": 1440,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
@@ -1083,8 +1083,7 @@
       "2023-12-12": 1440,
       "2023-12-11": 1440,
       "2023-12-10": 1440,
-      "2023-12-09": 1440,
-      "2023-12-08": 1440
+      "2023-12-09": 1440
     }
   }
 ]
