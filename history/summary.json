@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/chot.sale.ico",
     "slug": "chot-sale",
     "status": "up",
-    "uptime": "55.37%",
+    "uptime": "55.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "40.58%",
+    "uptimeYear": "41.13%",
     "time": 1391,
-    "timeDay": 1167,
-    "timeWeek": 1416,
-    "timeMonth": 1426,
+    "timeDay": 1466,
+    "timeWeek": 1448,
+    "timeMonth": 1442,
     "timeYear": 1391,
     "dailyMinutesDown": {
       "2025-01-11": 55,
@@ -233,8 +233,7 @@
       "2024-03-05": 1440,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
-      "2024-03-02": 1440,
-      "2024-03-01": 1440
+      "2024-03-02": 1440
     }
   },
   {
@@ -243,10 +242,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.chot.sale.ico",
     "slug": "app-chot-sale",
     "status": "down",
-    "uptime": "45.14%",
+    "uptime": "45.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -254,7 +253,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-28": 102,
+      "2025-03-01": 107,
+      "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
@@ -617,8 +617,7 @@
       "2024-03-05": 1440,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
-      "2024-03-02": 1440,
-      "2024-03-01": 1440
+      "2024-03-02": 1440
     }
   },
   {
@@ -627,10 +626,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tcp-ping-to-chot-sale-server",
     "status": "down",
-    "uptime": "25.30%",
+    "uptime": "25.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -638,7 +637,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-28": 102,
+      "2025-03-01": 107,
+      "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
@@ -1001,8 +1001,7 @@
       "2024-03-05": 1440,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
-      "2024-03-02": 1440,
-      "2024-03-01": 1440
+      "2024-03-02": 1440
     }
   }
 ]
