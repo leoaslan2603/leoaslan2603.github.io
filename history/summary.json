@@ -4,9 +4,9 @@
     "url": "https://chot.sale",
     "icon": "https://icons.duckduckgo.com/ip3/chot.sale.ico",
     "slug": "chot-sale",
-    "status": "up",
+    "status": "down",
     "uptime": "57.99%",
-    "uptimeDay": "44.66%",
+    "uptimeDay": "44.62%",
     "uptimeWeek": "91.94%",
     "uptimeMonth": "98.05%",
     "uptimeYear": "65.99%",
@@ -16,7 +16,7 @@
     "timeMonth": 1455,
     "timeYear": 1384,
     "dailyMinutesDown": {
-      "2025-05-31": 633,
+      "2025-05-31": 634,
       "2025-05-30": 164,
       "2025-05-25": 15,
       "2025-05-16": 21,
@@ -168,7 +168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-31": 634,
+      "2025-05-31": 644,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
@@ -552,7 +552,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-31": 634,
+      "2025-05-31": 644,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
