@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/chot.sale.ico",
     "slug": "chot-sale",
     "status": "up",
-    "uptime": "54.59%",
+    "uptime": "54.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "65.96%",
-    "time": 1334,
-    "timeDay": 894,
-    "timeWeek": 870,
-    "timeMonth": 950,
-    "timeYear": 1325,
+    "time": 1332,
+    "timeDay": 962,
+    "timeWeek": 804,
+    "timeMonth": 957,
+    "timeYear": 1324,
     "dailyMinutesDown": {
       "2025-11-01": 20,
       "2025-10-01": 1216,
@@ -158,16 +158,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.chot.sale.ico",
     "slug": "app-chot-sale",
     "status": "up",
-    "uptime": "40.47%",
+    "uptime": "40.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "8.83%",
-    "time": 1017,
-    "timeDay": 886,
-    "timeWeek": 1087,
-    "timeMonth": 1033,
-    "timeYear": 1017,
+    "uptimeYear": "9.10%",
+    "time": 1013,
+    "timeDay": 858,
+    "timeWeek": 1051,
+    "timeMonth": 1037,
+    "timeYear": 1013,
     "dailyMinutesDown": {
       "2025-11-01": 20,
       "2025-10-01": 1216,
@@ -500,8 +500,7 @@
       "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
-      "2024-11-05": 1440,
-      "2024-11-04": 1440
+      "2024-11-05": 1440
     }
   },
   {
@@ -510,7 +509,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tcp-ping-to-chot-sale-server",
     "status": "down",
-    "uptime": "21.62%",
+    "uptime": "21.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -521,7 +520,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-03": 117,
+      "2025-11-04": 112,
+      "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
@@ -884,8 +884,7 @@
       "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
-      "2024-11-05": 1440,
-      "2024-11-04": 1440
+      "2024-11-05": 1440
     }
   }
 ]
