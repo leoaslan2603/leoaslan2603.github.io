@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/chot.sale.ico",
     "slug": "chot-sale",
     "status": "down",
-    "uptime": "51.09%",
+    "uptime": "51.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "33.58%",
-    "time": 1341,
+    "uptimeYear": "33.31%",
+    "time": 1340,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1254,
+    "timeYear": 1253,
     "dailyMinutesDown": {
-      "2026-03-03": 157,
+      "2026-03-04": 150,
+      "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
@@ -274,7 +275,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.chot.sale.ico",
     "slug": "app-chot-sale",
     "status": "down",
-    "uptime": "37.90%",
+    "uptime": "37.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -285,7 +286,8 @@
     "timeMonth": 0,
     "timeYear": 1013,
     "dailyMinutesDown": {
-      "2026-03-03": 157,
+      "2026-03-04": 150,
+      "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
@@ -616,8 +618,7 @@
       "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
-      "2025-03-05": 1440,
-      "2025-03-04": 1440
+      "2025-03-05": 1440
     }
   },
   {
@@ -626,7 +627,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tcp-ping-to-chot-sale-server",
     "status": "down",
-    "uptime": "20.20%",
+    "uptime": "20.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -637,7 +638,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-03": 157,
+      "2026-03-04": 150,
+      "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
@@ -1000,8 +1002,7 @@
       "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
-      "2025-03-05": 1440,
-      "2025-03-04": 1440
+      "2025-03-05": 1440
     }
   }
 ]
