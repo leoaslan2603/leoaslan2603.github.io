@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/chot.sale.ico",
     "slug": "chot-sale",
     "status": "down",
-    "uptime": "49.75%",
+    "uptime": "49.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "20.15%",
+    "uptimeYear": "19.88%",
     "time": 1361,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1206,
+    "timeYear": 1202,
     "dailyMinutesDown": {
-      "2026-04-21": 199,
+      "2026-04-22": 198,
+      "2026-04-21": 1440,
       "2026-04-20": 1440,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
@@ -322,7 +323,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.chot.sale.ico",
     "slug": "app-chot-sale",
     "status": "down",
-    "uptime": "36.91%",
+    "uptime": "36.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -333,7 +334,8 @@
     "timeMonth": 0,
     "timeYear": 1013,
     "dailyMinutesDown": {
-      "2026-04-21": 199,
+      "2026-04-22": 198,
+      "2026-04-21": 1440,
       "2026-04-20": 1440,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
@@ -664,8 +666,7 @@
       "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
-      "2025-04-23": 1440,
-      "2025-04-22": 1440
+      "2025-04-23": 1440
     }
   },
   {
@@ -674,7 +675,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tcp-ping-to-chot-sale-server",
     "status": "down",
-    "uptime": "19.67%",
+    "uptime": "19.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -685,7 +686,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-21": 199,
+      "2026-04-22": 198,
+      "2026-04-21": 1440,
       "2026-04-20": 1440,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
@@ -1048,8 +1050,7 @@
       "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
-      "2025-04-23": 1440,
-      "2025-04-22": 1440
+      "2025-04-23": 1440
     }
   }
 ]
